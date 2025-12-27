@@ -1,0 +1,5 @@
+{
+  "name": "ShellChess Professional",
+  "description": "High-performance Chess with Shell automation, custom AI engine, and interactive splash screens.",
+  "requestFramePermissions": []
+}
